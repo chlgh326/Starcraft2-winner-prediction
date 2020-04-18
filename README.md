@@ -1,12 +1,11 @@
 # Starcraft-2-winner-prediction
 
 ## Summary
-PlayerUnknown's BattleGrounds (PUBG) has enjoyed massive popularity. With over 50 million copies sold, it's the fifth best selling game of all time, and has millions of active monthly players.
-
-The team at PUBG has made official game data available for the public to explore and scavenge outside of "The Blue Circle." This competition is not an official or affiliated PUBG site - Kaggle collected data made possible through the PUBG Developer API.
+디지털로 된 정보 위에서 경쟁한다는 점에서, 게임 대회와 데이터 분석 경진대회는 맥락이 비슷합니다.
+Blizzard 스타크래프트2 경기의 행동 데이터로 승패를 예측합니다.
 
 ## Data collection
-https://www.kaggle.com/c/pubg-finish-placement-prediction
+https://dacon.io/competitions/official/235583/overview/
 
 ## My prediction model
 
