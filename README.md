@@ -6,7 +6,7 @@ Blizzard 스타크래프트2 경기의 행동 데이터로 승패를 예측합�
 ## Data collection
 https://dacon.io/competitions/official/235583/overview/
 
-## Final ranking (Team name: 동치미, 94팀 중 22위)
+## Final ranking (Team name: 동치미, 94팀 중 21위)
 https://dacon.io/competitions/official/235583/leaderboard/
 
 ## My prediction model
